@@ -8,7 +8,10 @@ const int port = 3001;
 
 var authenticationCodeParameters = new Dictionary<string, string>
 {
+	//
 	// ⚒️ TODO: Fill with the query parameters of a OAuth authentication code flow request
+	//          (see https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps)
+	//
 	TODO,
 };
 
