@@ -1,0 +1,6 @@
+@OAuthPrimer.Backend_HostAddress = http://localhost:5019
+
+GET {{OAuthPrimer.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

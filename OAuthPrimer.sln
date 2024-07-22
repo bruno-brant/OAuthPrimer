@@ -14,6 +14,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthPrimer", "OAuthPrimer\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthPrimer.GithubGists", "OAuthPrimer.GithubGists\OAuthPrimer.GithubGists.csproj", "{311064E2-F2FB-4096-99E1-FF248F095AEA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthPrimer.Backend", "..\repos\oauth-primer\OAuthPrimer.Backend\OAuthPrimer.Backend.csproj", "{FA2787B5-D50B-4767-8B1E-222A715B1B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthPrimer.Frontend", "OAuthPrimer.Frontend\OAuthPrimer.Frontend.csproj", "{F24504FA-895B-409A-B60B-7E3DA24D8F8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{311064E2-F2FB-4096-99E1-FF248F095AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{311064E2-F2FB-4096-99E1-FF248F095AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{311064E2-F2FB-4096-99E1-FF248F095AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2787B5-D50B-4767-8B1E-222A715B1B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2787B5-D50B-4767-8B1E-222A715B1B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2787B5-D50B-4767-8B1E-222A715B1B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2787B5-D50B-4767-8B1E-222A715B1B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24504FA-895B-409A-B60B-7E3DA24D8F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24504FA-895B-409A-B60B-7E3DA24D8F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24504FA-895B-409A-B60B-7E3DA24D8F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24504FA-895B-409A-B60B-7E3DA24D8F8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
